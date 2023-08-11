@@ -49,16 +49,12 @@ Converse-AI is an advanced conversational assistant powered by state-of-the-art 
 
 3. Create a `.env` file in the `server` directory and specify the environment variables:
 
-   ```
-   PORT=5000
-   DB_URL="mongodb+srv://gowtham:donboy@gpt.jkmaclb.mongodb.net/Prompt"
-   API=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
-   ```
+   The env content are presented in this Google Drive : https://drive.google.com/drive/folders/1YGhCtHuFNcMTFLdAVk1y3JsmSG5uT5bG?usp=sharing
 
 4. Start the server:
 
    ```
-   npm start
+   npm run dev
    ```
 
    The server will run on `http://localhost:5000`.
