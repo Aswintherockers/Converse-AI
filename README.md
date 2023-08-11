@@ -69,10 +69,11 @@ Converse-AI is an advanced conversational assistant powered by state-of-the-art 
 ## Image:
 
 ![Screenshot (31)](https://github.com/Aswintherockers/Converse-AI/assets/110334860/1b38e05c-bfa1-4cfb-b240-22a1dbe9f3b5)
-![Screenshot (34)](https://github.com/Aswintherockers/Converse-AI/assets/110334860/c863cae4-5b5c-4988-96d9-88888f0af1b8)
 ![Screenshot (33)](https://github.com/Aswintherockers/Converse-AI/assets/110334860/73e7fb9e-700b-4a2a-9575-0d9c7a97ece6)
+![Screenshot (34)](https://github.com/Aswintherockers/Converse-AI/assets/110334860/c863cae4-5b5c-4988-96d9-88888f0af1b8)
 ![Screenshot (35)](https://github.com/Aswintherockers/Converse-AI/assets/110334860/cd335821-da4a-46de-9256-f219144adeb3)
 ![Screenshot (36)](https://github.com/Aswintherockers/Converse-AI/assets/110334860/9135b9d4-bd1f-4256-85b7-4aa132ffc024)
+
 
 
 
