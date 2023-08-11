@@ -66,6 +66,12 @@ Converse-AI is an advanced conversational assistant powered by state-of-the-art 
 - Type your messages or questions in the chat input box to interact with Converse-AI.
 - The chatbot will process your input using its advanced NLP algorithms and provide contextually relevant responses.
 - Continue the conversation, ask follow-up questions, or seek clarification as needed.
+## Image:
+
+![Screenshot (218)](https://github.com/Aswintherockers/Converse-AI/assets/110334860/e1ed3ea7-f6af-41f8-bdb0-776fbb8fd8b0)
+
+
+
 
 ## Contributing:
 
