@@ -92,13 +92,13 @@ We welcome contributions to enhance Converse-AI. To contribute, please follow th
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Aswintherockers/Converse-AI/blob/main/LICENSE) file for details.
 This project is copyrighted under the name of the creator, GD.
-GitHub Link: [GD](https://github.com/gowthamdharma22/converse-ai)
+GitHub Link: [AK](https://github.com/Aswintherockers/Converse-AI)
 
 ## Creator:
 
 The Converse-AI project was created by GD.
 
-GitHub Link: [GD](https://github.com/gowthamdharma22/converse-ai)
+GitHub Link: [AK](https://github.com/Aswintherockers/Converse-AI)
 
 ## Acknowledgements:
 
